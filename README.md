@@ -1,6 +1,8 @@
 👋\
 HyenJae Kim ( Alex )
- 
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
+  
 
 # 📖Experience
 - Ulsan National Institute of Science and Technology `2017~2024`
@@ -13,7 +15,7 @@ HyenJae Kim ( Alex )
 `Biological skin mimicry research trends and applications in various fields`
 
 # 📌Current
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+
   
   - 삼성 청년 SW 아카데미 `2024.01~`
 # 🤝Contact
