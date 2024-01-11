@@ -32,7 +32,7 @@ HyenJae Kim ( Alex )
 **거주지** : 서울\
 **전공** : 에너지화학공학과(학사)\
 **MBTI** : ISTJ(?)\
-<span style="color:yellow">호</span><span style="color:red">불호</span> : <span style="color:yellow">잠, 영화·드라마 보기, 노래 듣기, 새로운 것 도전하기</span> / <span style="color:red">더러움, 예의없음</span>\
+<span style="color:yellow">호</span><span style="color:red">불호</span> : <span style="color:yellow">고양이, 잠, 영화·드라마 보기, 노래 듣기, 새로운 것 도전하기</span> / <span style="color:red">더러움, 예의없음</span>\
 **취미** : 영화·드라마 보기, 노래 듣기, 게임 + 대회시청\
 **특기** : 바이올린(?), 밤새기\
 **스포츠** : 농구, 야구\
