@@ -1,5 +1,6 @@
 # 자기소개
--이름 : 김현재\
--생년월일 : 1999.03.22\
+-Name : HyenJae Kim\
+-Birth : 1999.03.22\
 -MBTI : ISTJ\
--전공 : 에너지화학공학과\
+-Major : Chemical Engineering\
+
