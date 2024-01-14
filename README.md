@@ -8,13 +8,13 @@ HyenJae Kim ( Alex )
 - GSSH `2015~2017`
 # 💻Work
 - Intern\
-한국동서발전 울산발전본부	`2022.06~2022.08`
-- IPCL lab - Polymer Pressure Sensitive Adhesives 공부 `2023.05`
+한국동서발전 울산발전본부	`2022.06 ~ 2022.08`
+- IPCL lab - Polymer Pressure Sensitive Adhesives 공부 `2023.05 ~ 2023.06`
 - Bachelor's Thesis\
 `Biological skin mimicry research trends and applications in various fields`
 
 # 📌Current
-  - 삼성 청년 SW 아카데미 `2024.01~`
+  - 삼성 청년 SW 아카데미 `2024.01 ~ `
 
 # 🤝Contact
  <a href="mailto:nowalex322@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
