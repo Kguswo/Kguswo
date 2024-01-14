@@ -2,7 +2,6 @@
 HyenJae Kim ( Alex )
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
-  
 
 # 📖Experience
 - Ulsan National Institute of Science and Technology `2017~2024`
@@ -40,7 +39,8 @@ HyenJae Kim ( Alex )
 **왜 개발자가 되고싶었는지?**
 : 전공과 안맞다고 생각해서 이것저것 해보고나서 제 목표에 적합한 조건이라 생각했고, 계속 배우고 성장하는걸 중요하게 생각해서 성향상 잘 맞을 것 같은 직업이라 선택하게 되었습니다.
 
-**취미** : `영화·드라마 보기`(좋아하는 감독 : 미야자키 하야오), `노래 듣기`(좋아하는 가수 : 잔나비, 너드커넥션, 검정치마같은 가수 // 뭔가 집중할땐 가사없는 lofi음악), `게임`(롤, 발로란트, 배그) + `대회시청`(***<span style="color:red">T1</span>***)
+**취미** : 
+영화·드라마 보기(좋아하는 감독 : 미야자키 하야오) 노래 듣기(좋아하는 가수 : 잔나비, 너드커넥션, 검정치마같은 가수 // 뭔가 집중할땐 가사없는 lofi음악), 게임(롤, 발로란트, 배그) + 대회시청(***<span style="color:red">T1</span>***)
 
 **특기** : 바이올린, 밤새기
 
