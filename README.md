@@ -8,10 +8,10 @@ HyenJae Kim ( Alex )
 - GSSH `2015~2017`
 # 💻Work
 - Bachelor's Thesis\
-`Biological skin mimicry research trends and applications in various fields`
-- Intern\
-- IPCL lab - Polymer Pressure Sensitive Adhesives 공부 `2023.05 ~ 2023.06`
-- 한국동서발전 울산발전본부	`2022.06 ~ 2022.08`
+  `Biological skin mimicry research trends and applications in various fields`
+- Intern
+  - IPCL lab - Polymer Pressure Sensitive Adhesives 공부 `2023.05 ~ 2023.06` 
+  - 한국동서발전 울산발전본부	`2022.06 ~ 2022.08`
 
 
 # 📌Current
