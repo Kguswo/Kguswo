@@ -4,8 +4,7 @@ HyenJae Kim ( Alex )
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
 
 # 📖Experience
-- Ulsan National Institute of Science and Technology `2017~2024`
-- GSSH `2015~2017`
+- 
 # 💻Work
 - Bachelor's Thesis\
   `Biological skin mimicry research trends and applications in various fields`
