@@ -3,6 +3,17 @@ HyenJae Kim ( Alex )
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
 
+#### GitHub
+![Kguswo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kguswo&show_icon=true&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kguswo&layout=compact)
+
+#### BOJ
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=nowalex322)](https://solved.ac/nowalex322) 
+
+
+#### Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kguswo)](https://velog.io/@kguswo)
+
+
 # 📖Experience
 - 
 # 💻Work
