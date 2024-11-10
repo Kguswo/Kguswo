@@ -3,6 +3,11 @@ HyeonJae Kim ( Alex )
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
 
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Kguswo?pet-id=643067894980118475" width="25%" height="120"/><img src="https://render.gitanimals.org/lines/Kguswo?pet-id=643067892459353867" width="25%" height="120"/><img src="https://render.gitanimals.org/lines/Kguswo?pet-id=643068285457250428" width="25%" height="120"/><img src="https://render.gitanimals.org/lines/Kguswo?pet-id=643068788031328518" width="25%" height="120"/>
+</div>  
+  
 #### GitHub
 ![Kguswo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kguswo&show_icon=true&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kguswo&layout=compact)
 
