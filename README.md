@@ -5,7 +5,7 @@ HyeonJae Kim ( Alex )
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Kguswo?pet-id=643067894980118475" width="25%" height="120"/><img src="https://render.gitanimals.org/lines/Kguswo?pet-id=643067892459353867" width="25%" height="120"/><img src="https://render.gitanimals.org/lines/Kguswo?pet-id=643068285457250428" width="25%" height="120"/><img src="https://render.gitanimals.org/lines/Kguswo?pet-id=643068788031328518" width="25%" height="120"/>
+  <img src="https://render.gitanimals.org/lines/Kguswo?pet-id=620966883953186604" width="20%" height="120"/><img src="https://render.gitanimals.org/lines/Kguswo?pet-id=643067892459353867" width="20%" height="120"/><img src="https://render.gitanimals.org/lines/Kguswo?pet-id=643067894980118475" width="20%" height="120"/><img src="https://render.gitanimals.org/lines/Kguswo?pet-id=648768907320220947" width="20%" height="120" /><img src="https://render.gitanimals.org/lines/Kguswo?pet-id=643068788031328518" width="20%" height="120"/>
 </div>  
   
 #### GitHub
