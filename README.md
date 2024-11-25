@@ -1,7 +1,7 @@
 👋\
 HyeonJae Kim ( Alex )
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
