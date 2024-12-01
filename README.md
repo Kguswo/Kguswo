@@ -30,7 +30,7 @@ HyeonJae Kim ( Alex )
 
 
 # 📌Current
-  - 삼성 청년 SW 아카데미 `2024.01 ~ `
+  - 삼성 청년 SW 아카데미 `2024.01 ~ 2024.12`
 
 # 🤝Contact
  <a href="mailto:nowalex322@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
