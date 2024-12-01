@@ -11,6 +11,8 @@ HyeonJae Kim ( Alex )
 #### GitHub
 ![Kguswo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kguswo&show_icon=true&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kguswo&layout=compact)
 
+
+
 #### PS
 <table>
 <tr>
@@ -32,12 +34,17 @@ HyeonJae Kim ( Alex )
 </table>
 
 
+
 #### Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kguswo)](https://velog.io/@kguswo)
+<br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kguswo)](https://velog.io/@kguswo)
 
 
 # 📖Experience
-- 
+- Samsung Software Academy For Youth `2024.01 ~ 2024.12`
+
+
 # 💻Work
 - Bachelor's Thesis\
   `Biological skin mimicry research trends and applications in various fields`
@@ -47,11 +54,27 @@ HyeonJae Kim ( Alex )
 
 
 # 📌Current
-  - 삼성 청년 SW 아카데미 `2024.01 ~ 2024.12`
+  - Studying on my own
+
 
 # 🤝Contact
  <a href="mailto:nowalex322@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
+
 # 📚Project
+<div align="center">
+  
+[![SCV](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=SCV&theme=swift)](https://github.com/Kguswo/SCV)
+[![OMG](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=OMG&theme=swift)](https://github.com/Kguswo/OMG)
+[![Picple](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=Picple&theme=swift)](https://github.com/Kguswo/Picple)
+[![FitDo](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=FitDo&theme=swift)](https://github.com/Kguswo/FitDo)
+
+
+</div>
+
 
 # Others
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongddiyong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br></br>
+----
