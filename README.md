@@ -11,8 +11,25 @@ HyeonJae Kim ( Alex )
 #### GitHub
 ![Kguswo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kguswo&show_icon=true&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kguswo&layout=compact)
 
-#### BOJ
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=nowalex322)](https://solved.ac/nowalex322) 
+#### PS
+<table>
+<tr>
+<th align="center">BOJ</th>
+<th align="center">CF</th>
+</tr>
+<tr>
+<td align="center">
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nowalex322&scale=1.3)](https://solved.ac/nowalex322)
+
+</td>
+<td align="center">
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nowalex322&theme=discord_old_blurple&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/nowalex322)
+
+</td>
+</tr>
+</table>
 
 
 #### Blog
