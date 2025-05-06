@@ -64,13 +64,19 @@ HyeonJae Kim ( Alex )
 
 
 # 📚Project
+
 <div align="center">
   
+## 👨‍👧‍👧Team Projects
+
 [![SCV](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=SCV&theme=swift)](https://github.com/Kguswo/SCV)
 [![OMG](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=OMG&theme=swift)](https://github.com/Kguswo/OMG)
 [![Picple](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=Picple&theme=swift)](https://github.com/Kguswo/Picple)
 [![FitDo](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=FitDo&theme=swift)](https://github.com/Kguswo/FitDo)
 
+## 🙎‍♂️Personal Projects
+[![Hit_Me_Up](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=Hit_Me_Up&theme=swift)](https://github.com/Kguswo/Hit_Me_Up)
+[![MeloD](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=MeloD&theme=swift)](https://github.com/Kguswo/MeloD)
 
 </div>
 
