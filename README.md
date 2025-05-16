@@ -1,5 +1,7 @@
 👋\
-HyeonJae Kim ( Alex )
+HyeonJae Kim ( Alex ) 
+
+[![hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%253A%252F%252Fgithub.com%252FKguswo&title=hits&title_bg=555555&count_bg=79c83d&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast1.run.app)
 
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
