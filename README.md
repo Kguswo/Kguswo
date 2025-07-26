@@ -44,39 +44,20 @@ HyeonJae Kim ( Alex )
 </tr>
 </table>
 
+<br/>
 
-# 📖Experience
-- Samsung Software Academy For Youth `2024.01 ~ 2024.12`
-
-
-# 💻Work
-- Bachelor's Thesis\
-  `Biological skin mimicry research trends and applications in various fields`
-- Intern
-  - IPCL lab - Polymer Pressure Sensitive Adhesives `2023.05 ~ 2023.06` 
-  - KEWP	`2022.06 ~ 2022.08`
-
-
-# 📌Current
-  - Studying on my own
-
-
-# 🤝Contact
- <a href="mailto:nowalex322@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
-
-
-# 📚Project
+## 📚Project
 
 <div align="center">
   
-## 👨‍👧‍👧Team Projects
+### 👨‍👧‍👧Team Projects
 
 [![SCV](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=SCV&theme=swift)](https://github.com/Kguswo/SCV)
 [![OMG](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=OMG&theme=swift)](https://github.com/Kguswo/OMG)
 [![Picple](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=Picple&theme=swift)](https://github.com/Kguswo/Picple)
 [![FitDo](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=FitDo&theme=swift)](https://github.com/Kguswo/FitDo)
 
-## 🙎‍♂️Personal Projects
+### 🙎‍♂️Personal Projects
 [![Hit_Me_Up](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=Hit_Me_Up&theme=swift)](https://github.com/Kguswo/Hit_Me_Up)
 [![MeloD](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=MeloD&theme=swift)](https://github.com/Kguswo/MeloD)
 
