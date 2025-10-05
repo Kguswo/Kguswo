@@ -19,7 +19,7 @@ HyeonJae Kim ( Alex )
   <img src="https://img.shields.io/badge/Now's_Log_🏠-kguswo.github.io-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Blog" style="border-radius: 8px;"/>
 </a>
 
-<br><br/>
+<br/>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kguswo)](https://velog.io/@kguswo)
 <br>
