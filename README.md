@@ -22,7 +22,6 @@ HyeonJae Kim ( Alex )
 <br/>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kguswo)](https://velog.io/@kguswo)
-<br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kguswo)](https://velog.io/@kguswo)
 
 
