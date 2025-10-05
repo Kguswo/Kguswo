@@ -18,7 +18,7 @@ HyeonJae Kim ( Alex )
   <img src="https://img.shields.io/badge/Now's_Log_🏠-kguswo.github.io-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Blog" style="border-radius: 8px;"/>
 </a>
 
-<br/>
+<br><br/>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kguswo)](https://velog.io/@kguswo)
 <br>
@@ -32,9 +32,11 @@ HyeonJae Kim ( Alex )
 <table>
 <tr>
 <td align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kguswo&layout=compact)
 </td>
 <td align="center">
+
 ![Kguswo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kguswo&show_icons=true&hide_border=true)
 </td>
 </tr>
@@ -55,9 +57,11 @@ HyeonJae Kim ( Alex )
 </tr>
 <tr>
 <td align="center" width="50%">
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nowalex322)](https://solved.ac/nowalex322)
 </td>
 <td align="center" width="50%">
+
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nowalex322&theme=discord_old_blurple&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/nowalex322)
 </td>
 </tr>
