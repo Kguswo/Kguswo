@@ -13,38 +13,59 @@ HyeonJae Kim ( Alex )
 </div>  
 
 
-#### GitHub
+#### 📖 Blog
+<a href="https://kguswo.github.io/">
+  <img src="https://img.shields.io/badge/Now's_Log_🏠-kguswo.github.io-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Blog" style="border-radius: 8px;"/>
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kguswo&layout=compact) 　 ![Kguswo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kguswo&show_icon=true&hide_border=true)  
+<br/>
 
-
-#### Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kguswo)](https://velog.io/@kguswo)
 <br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kguswo)](https://velog.io/@kguswo)
 
 
-#### PS
+<br/>
+<details>
+<summary><b>📊 GitHub</b></summary>
+<br/>
 <table>
 <tr>
-<th align="center">BOJ</th>
-<th align="center">CF</th>
-</tr>
-<tr>
 <td align="center">
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nowalex322&scale=1.3)](https://solved.ac/nowalex322)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kguswo&layout=compact)
 </td>
 <td align="center">
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nowalex322&theme=discord_old_blurple&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/nowalex322)
-
+![Kguswo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kguswo&show_icons=true&hide_border=true)
 </td>
 </tr>
 </table>
+</details>
 
 <br/>
+
+
+<br/>
+<details>
+<summary><b>🧩 PS</b></summary>
+<br/>
+<table>
+<tr>
+<th align="center">BOJ</th>
+<th align="center">Codeforces</th>
+</tr>
+<tr>
+<td align="center" width="50%">
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nowalex322)](https://solved.ac/nowalex322)
+</td>
+<td align="center" width="50%">
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nowalex322&theme=discord_old_blurple&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/nowalex322)
+</td>
+</tr>
+</table>
+</details>
+
+
+<!-- <br/>
 
 ## 📚Project
 
@@ -61,7 +82,7 @@ HyeonJae Kim ( Alex )
 [![Hit_Me_Up](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=Hit_Me_Up&theme=swift)](https://github.com/Kguswo/Hit_Me_Up)
 [![MeloD](https://github-readme-stats.vercel.app/api/pin/?username=Kguswo&repo=MeloD&theme=swift)](https://github.com/Kguswo/MeloD)
 
-</div>
+</div> -->
 
 <!--
 # Others
