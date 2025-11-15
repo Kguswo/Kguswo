@@ -32,13 +32,11 @@ HyeonJae Kim ( Alex )
 <br/>
 <table>
 <tr>
-<td align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kguswo&layout=compact)
+<td align="center" width="360">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kguswo&layout=compact&langs_count=8&card_width=320" width="400" />
 </td>
-<td align="center">
-
-![Kguswo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kguswo&show_icons=true&hide_border=true)
+<td align="center" width="480">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Kguswo" width="480" />
 </td>
 </tr>
 </table>
@@ -57,13 +55,15 @@ HyeonJae Kim ( Alex )
 <th align="center">Codeforces</th>
 </tr>
 <tr>
-<td align="center" width="50%">
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nowalex322)](https://solved.ac/nowalex322)
+<td align="center" width="420">
+<a href="https://solved.ac/nowalex322">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nowalex322" width="100%" alt="Solved.ac Profile"/>
+</a>
 </td>
-<td align="center" width="50%">
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nowalex322&theme=discord_old_blurple&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/nowalex322)
+<td align="center" width="300">
+<a href="https://codeforces.com/profile/nowalex322">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=nowalex322&theme=discord_old_blurple&disable_animations=false&show_icons=true&force_username=true" width="320" alt="Codeforces Stats"/>
+</a>
 </td>
 </tr>
 </table>
