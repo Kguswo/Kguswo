@@ -16,8 +16,8 @@ HyeonJae Kim ( Alex )
 #### 📖 Blog
 
 &emsp;
-<a href="https://kguswo.github.io/">
-  <img src="https://img.shields.io/badge/Now's_Log_🏠-kguswo.github.io-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Blog" style="border-radius: 8px;"/>
+<a href="https://kguswo.dev/">
+  <img src="https://img.shields.io/badge/Now's_Log_🏠-kguswo.dev-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Blog" style="border-radius: 8px;"/>
 </a>
 <br><br/>
 
